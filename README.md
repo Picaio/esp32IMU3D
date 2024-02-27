@@ -27,7 +27,7 @@ Este proyecto consiste en utilizar un ESP32 como un servidor web que implementa 
 
 ## Ejemplo de Esquemático 📋
 
-![Video](https://www.youtube.com/watch?v=516be4dHADc)
+[enlace](https://www.youtube.com/watch?v=516be4dHADc)
 
 ## Contribuciones 🚀
 
